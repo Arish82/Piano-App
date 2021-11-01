@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Piano-App/static/css/main.dc07414f.chunk.css",
+    "main.js": "/Piano-App/static/js/main.fbd1c9a1.chunk.js",
+    "main.js.map": "/Piano-App/static/js/main.fbd1c9a1.chunk.js.map",
+    "runtime-main.js": "/Piano-App/static/js/runtime-main.7572b42c.js",
+    "runtime-main.js.map": "/Piano-App/static/js/runtime-main.7572b42c.js.map",
+    "static/js/2.9bbcf8fb.chunk.js": "/Piano-App/static/js/2.9bbcf8fb.chunk.js",
+    "static/js/2.9bbcf8fb.chunk.js.map": "/Piano-App/static/js/2.9bbcf8fb.chunk.js.map",
+    "static/js/3.debbd98c.chunk.js": "/Piano-App/static/js/3.debbd98c.chunk.js",
+    "static/js/3.debbd98c.chunk.js.map": "/Piano-App/static/js/3.debbd98c.chunk.js.map",
+    "index.html": "/Piano-App/index.html",
+    "static/css/main.dc07414f.chunk.css.map": "/Piano-App/static/css/main.dc07414f.chunk.css.map",
+    "static/js/2.9bbcf8fb.chunk.js.LICENSE.txt": "/Piano-App/static/js/2.9bbcf8fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7572b42c.js",
+    "static/js/2.9bbcf8fb.chunk.js",
+    "static/css/main.dc07414f.chunk.css",
+    "static/js/main.fbd1c9a1.chunk.js"
+  ]
+}
