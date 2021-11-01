@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -27,7 +27,6 @@ body{
     .pianoBody{
         transform: rotate(90deg);
     }
-    
 }
 .container{
     width: 700px;

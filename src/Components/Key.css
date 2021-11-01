@@ -12,7 +12,8 @@
 .white{
     background-color: white;
     border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;transition: background-color 300ms ease,box-shadow 50ms ease;
+    border-bottom-right-radius: 15px;
+    transition: background-color 300ms ease,box-shadow 50ms ease;
     box-shadow: 0 8px 1px rgb(179, 174, 174);
 }
 .white:active, .pressed{
@@ -36,4 +37,14 @@
     height: 58%;
     box-shadow: 0 0 0 transparent;
     transform: translateY(2px);
+}
+
+@media (max-width: 500px) {
+    .black{
+        background-color: red;
+        color: red;
+    }
+    .white{
+        color: white;
+    }
 }
