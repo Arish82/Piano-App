@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.pianoBody{
+    width: 780px;
+    height: 410px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(37, 37, 37);
+    box-shadow: -10px 10px 1px rgb(90, 90, 90);
+}
+@media (max-width: 500px) {
+    body{
+        width: 100vw;
+        overflow: hidden;
+    }
+    .pianoBody{
+        transform: rotate(90deg);
+    }
+    
+}
+.container{
+    width: 700px;
+    height: 320px;
+    display: flex;
+}
